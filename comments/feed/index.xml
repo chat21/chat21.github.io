@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Commenti per Chat21</title>
-	<atom:link href="http://localhost:8888/static-chat21/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost:8888/static-chat21/</link>
+	<atom:link href="https://chat21.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://chat21.github.io/</link>
 	<description>Open Source Chat SDK built on Firebase for your Mobile and Web App</description>
-	<lastBuildDate>Mon, 30 Jul 2018 13:41:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Jul 2018 14:41:48 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.7</generator>

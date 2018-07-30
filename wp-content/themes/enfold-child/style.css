@@ -140,7 +140,7 @@ display: none !important;
 font-family: 'Arial Rounded MT Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Arial Rounded MT Bold'), url('http://localhost:8888/static-chat21/wp-content/themes/enfold-child/ARLRDBD_0.woff') format('woff');
+src: local('Arial Rounded MT Bold'), url('https://chat21.github.io/wp-content/themes/enfold-child/ARLRDBD_0.woff') format('woff');
 }
 
 

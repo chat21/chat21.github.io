@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Chat21</title>
-	<atom:link href="http://localhost:8888/static-chat21/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost:8888/static-chat21/</link>
+	<atom:link href="https://chat21.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://chat21.github.io/</link>
 	<description>Open Source Chat SDK built on Firebase for your Mobile and Web App</description>
 	<lastBuildDate>Wed, 27 Jun 2018 08:43:18 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -19,23 +19,23 @@
 	<generator>https://wordpress.org/?v=4.9.7</generator>
 	<item>
 		<title>Introduction</title>
-		<link>http://localhost:8888/static-chat21/introduction/</link>
-		<comments>http://localhost:8888/static-chat21/introduction/#respond</comments>
+		<link>https://chat21.github.io/introduction/</link>
+		<comments>https://chat21.github.io/introduction/#respond</comments>
 		<pubDate>Tue, 13 Feb 2018 18:02:53 +0000</pubDate>
 		<dc:creator><![CDATA[Chat21]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://localhost:8888/static-chat21/?p=3775</guid>
+		<guid isPermaLink="false">https://chat21.github.io/?p=3775</guid>
 		<description><![CDATA[<p>Introduction Chat21 helps you to add real-time chat to your app. The iOS SDK provides you with methods to initialize and configure chat from the client side, and provides ready to use UI components to fast address the integration of a chat in your mobile App. Chat21 uses a backend totally written for the Firebase [&#8230;]</p>
-<p>L'articolo <a rel="nofollow" href="http://localhost:8888/static-chat21/introduction/">Introduction</a> proviene da <a rel="nofollow" href="http://localhost:8888/static-chat21/">Chat21</a>.</p>
+<p>L'articolo <a rel="nofollow" href="https://chat21.github.io/introduction/">Introduction</a> proviene da <a rel="nofollow" href="https://chat21.github.io/">Chat21</a>.</p>
 ]]></description>
 				<content:encoded><![CDATA[<h2>Introduction</h2>
 <p>Chat21 helps you to add real-time chat to your app. The iOS SDK provides you with methods to initialize and configure chat from the client side, and provides ready to use UI components to fast address the integration of a chat in your mobile App. Chat21 uses a backend totally written for the Firebase platform (<a href="https://firebase.google.com/">http://firebase.google.com/</a>)</p>
 <h3>Quick start</h3>
 <p>&nbsp;</p>
-<p>L'articolo <a rel="nofollow" href="http://localhost:8888/static-chat21/introduction/">Introduction</a> proviene da <a rel="nofollow" href="http://localhost:8888/static-chat21/">Chat21</a>.</p>
+<p>L'articolo <a rel="nofollow" href="https://chat21.github.io/introduction/">Introduction</a> proviene da <a rel="nofollow" href="https://chat21.github.io/">Chat21</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://localhost:8888/static-chat21/introduction/feed/</wfw:commentRss>
+			<wfw:commentRss>https://chat21.github.io/introduction/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
