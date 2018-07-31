@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Objc &#8211; Chat21</title>
+	<atom:link href="http://www.chat21.org/category/objc/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.chat21.org/</link>
+	<description>Open Source Chat SDK built on Firebase for your Mobile and Web App</description>
+	<lastBuildDate>Tue, 31 Jul 2018 16:16:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.7</generator>
+	<item>
+		<title>Chat21 SDK &#8211; Project overview</title>
+		<link>http://www.chat21.org/chat21-sdk-project-overview/</link>
+		<pubDate>Thu, 15 Feb 2018 14:36:01 +0000</pubDate>
+		<dc:creator><![CDATA[Chat21]]></dc:creator>
+				<category><![CDATA[Chat21 SDK]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Objc]]></category>
+
+		<guid isPermaLink="false">https://sponziello.wordpress.com/?p=197</guid>
+		<description><![CDATA[<p>Chat21 is the chat sdk designed to embed chat features into your iOS, Android or Web App. Chat21 is open source, easy to embed, multi platform and supported by my Company,  Frontiere21 SRL.</p>
+<p>The project's source code is hosted on GitHub here and distributed under the AGPLv3 - GNU Affero General Public License licence. A commercial licence is also available.</p>
+<p>L'articolo <a rel="nofollow" href="http://www.chat21.org/chat21-sdk-project-overview/">Chat21 SDK &#8211; Project overview</a> proviene da <a rel="nofollow" href="http://www.chat21.org/">Chat21</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.chat21.org/" target="_blank" rel="noopener">Chat21</a> is the <strong>chat sdk</strong> designed to embed chat features into your iOS, Android or Web App<strong>. </strong>Chat21 is <strong>open source</strong>, easy to embed, <strong>multi platform</strong> and <strong>supported</strong> by my Company,  <a href="http://www.frontiere21.it/" target="_blank" rel="noopener">Frontiere21 SRL</a>.</p>
+<p>The project&#8217;s source code is hosted on GitHub <a href="https://github.com/chat21" target="_blank" rel="noopener">here</a> and distributed under the <a href="http://www.gnu.org/licenses/agpl.html">AGPLv3 &#8211; GNU Affero General Public License</a> licence. A commercial licence is also available.</p>
+<p>Main target of Chat21 is to support as many client platforms as possible. Here follows a list of the actually available Clients:</p>
+<ul>
+<li><a href="https://github.com/chat21/chat21-ios-sdk" target="_blank" rel="noopener">iOS SDK</a></li>
+<li><a href="https://github.com/chat21/chat21-android-sdk" target="_blank" rel="noopener">Android SDK</a></li>
+<li><a href="https://github.com/chat21/chat21-ionic" target="_blank" rel="noopener">Web SDK</a></li>
+<li><a href="https://github.com/chat21/chat21-web-widget" target="_blank" rel="noopener">Web widget</a></li>
+</ul>
+<p>The backend implementation of the platform relies on Firebase (https://firebase.google.com)./ You can find the backend source code, complete with installation instructions, here on GitHub:</p>
+<ul>
+<li><a href="https://github.com/chat21/chat21-cloud-functions" target="_blank" rel="noopener">Chat backend</a></li>
+</ul>
+<p>If you are interested in developing your first chat application with iOS, we just released our new <strong>Get Started tutorial</strong>: <a href="http://www.chat21.org/docs/ios/get-started/" target="_blank" rel="noopener">Your first iOS App with Chat21 SDK</a>.</p>
+<p>Chat21 is also hosted as demo App on iTunes and Google Play.</p>
+<p><a href="https://itunes.apple.com/bw/app/chat21/id1080622093?mt=8" target="_blank" rel="noopener"><img class="alignnone wp-image-204" src="http://www.chat21.org/wp-content/uploads/2018/02/app-store-button.png" alt="app-store-button" width="137" height="47" srcset="http://www.chat21.org/wp-content/uploads/2018/02/app-store-button.png 1620w, http://www.chat21.org/wp-content/uploads/2018/02/app-store-button-300x104.png 300w, http://www.chat21.org/wp-content/uploads/2018/02/app-store-button-768x265.png 768w, http://www.chat21.org/wp-content/uploads/2018/02/app-store-button-1030x355.png 1030w, http://www.chat21.org/wp-content/uploads/2018/02/app-store-button-1500x518.png 1500w, http://www.chat21.org/wp-content/uploads/2018/02/app-store-button-705x243.png 705w, http://www.chat21.org/wp-content/uploads/2018/02/app-store-button-1210x423.png 1210w, http://www.chat21.org/wp-content/uploads/2018/02/app-store-button-450x155.png 450w" sizes="(max-width: 137px) 100vw, 137px" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=chat21.android.demo"><img class="alignnone wp-image-206" src="http://www.chat21.org/wp-content/uploads/2018/02/googleplaybadgev2.png" alt="googleplaybadgev2" width="138" height="41" srcset="http://www.chat21.org/wp-content/uploads/2018/02/googleplaybadgev2.png 564w, http://www.chat21.org/wp-content/uploads/2018/02/googleplaybadgev2-300x89.png 300w, http://www.chat21.org/wp-content/uploads/2018/02/googleplaybadgev2-450x134.png 450w" sizes="(max-width: 138px) 100vw, 138px" /></a></p>
+<p>A <strong>live demo</strong> of the <strong>web chat</strong> is available online <a href="https://web.chat21.org/" target="_blank" rel="noopener">here</a>.</p>
+<p>Happy coding</p>
+<p>L'articolo <a rel="nofollow" href="http://www.chat21.org/chat21-sdk-project-overview/">Chat21 SDK &#8211; Project overview</a> proviene da <a rel="nofollow" href="http://www.chat21.org/">Chat21</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Chat21 SDK demo for iOS</title>
+		<link>http://www.chat21.org/my-chat-sdk-for-ios/</link>
+		<pubDate>Fri, 29 Dec 2017 10:56:38 +0000</pubDate>
+		<dc:creator><![CDATA[Chat21]]></dc:creator>
+				<category><![CDATA[Chat21 SDK]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Objc]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[demo]]></category>
+		<category><![CDATA[livechat]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[mobile livechat]]></category>
+		<category><![CDATA[sdk]]></category>
+		<category><![CDATA[support]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">https://sponziello.wordpress.com/?p=170</guid>
+		<description><![CDATA[<p>Today in Frontiere21 SRL, we just released a preliminary version of our open source Chat21 SDK iOS Demo, built on Firebase.      This is a good starting point to easily integrate realtime messaging features into your existing iOS mobile application. This demo shows you the following features: Tab based chat application Recent conversations&#8217; list Direct [&#8230;]</p>
+<p>L'articolo <a rel="nofollow" href="http://www.chat21.org/my-chat-sdk-for-ios/">Chat21 SDK demo for iOS</a> proviene da <a rel="nofollow" href="http://www.chat21.org/">Chat21</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><span id="ember5194" class="ember-view">Today in <a href="http://www.frontiere21.it/" target="_blank" rel="noopener">Frontiere21 SRL</a>, we just released a preliminary version of our open source <a href="https://github.com/chat21/chat21-ios-demo" target="_blank" rel="noopener">Chat21 SDK iOS Demo</a>, built on Firebase.</span></p>
+<p><img class="alignnone wp-image-175" src="http://www.chat21.org/wp-content/uploads/2017/12/contacts-mockup-2.png?w=722" alt="contacts-mockup-2.png" width="192" height="398" srcset="http://www.chat21.org/wp-content/uploads/2017/12/contacts-mockup-2.png 1281w, http://www.chat21.org/wp-content/uploads/2017/12/contacts-mockup-2-145x300.png 145w, http://www.chat21.org/wp-content/uploads/2017/12/contacts-mockup-2-768x1593.png 768w, http://www.chat21.org/wp-content/uploads/2017/12/contacts-mockup-2-497x1030.png 497w, http://www.chat21.org/wp-content/uploads/2017/12/contacts-mockup-2-723x1500.png 723w, http://www.chat21.org/wp-content/uploads/2017/12/contacts-mockup-2-340x705.png 340w, http://www.chat21.org/wp-content/uploads/2017/12/contacts-mockup-2-450x933.png 450w" sizes="(max-width: 192px) 100vw, 192px" />  <img class="alignnone wp-image-176" src="http://www.chat21.org/wp-content/uploads/2017/12/conversations-mockup-21.png" alt="conversations-mockup-2.png" width="192" height="397" srcset="http://www.chat21.org/wp-content/uploads/2017/12/conversations-mockup-21.png 1281w, http://www.chat21.org/wp-content/uploads/2017/12/conversations-mockup-21-145x300.png 145w, http://www.chat21.org/wp-content/uploads/2017/12/conversations-mockup-21-768x1593.png 768w, http://www.chat21.org/wp-content/uploads/2017/12/conversations-mockup-21-497x1030.png 497w, http://www.chat21.org/wp-content/uploads/2017/12/conversations-mockup-21-723x1500.png 723w, http://www.chat21.org/wp-content/uploads/2017/12/conversations-mockup-21-340x705.png 340w, http://www.chat21.org/wp-content/uploads/2017/12/conversations-mockup-21-450x933.png 450w" sizes="(max-width: 192px) 100vw, 192px" />  <img class="alignnone wp-image-177" src="http://www.chat21.org/wp-content/uploads/2017/12/messages-mockup.png" alt="messages-mockup.png" width="192" height="398" srcset="http://www.chat21.org/wp-content/uploads/2017/12/messages-mockup.png 1281w, http://www.chat21.org/wp-content/uploads/2017/12/messages-mockup-145x300.png 145w, http://www.chat21.org/wp-content/uploads/2017/12/messages-mockup-768x1593.png 768w, http://www.chat21.org/wp-content/uploads/2017/12/messages-mockup-497x1030.png 497w, http://www.chat21.org/wp-content/uploads/2017/12/messages-mockup-723x1500.png 723w, http://www.chat21.org/wp-content/uploads/2017/12/messages-mockup-340x705.png 340w, http://www.chat21.org/wp-content/uploads/2017/12/messages-mockup-450x933.png 450w" sizes="(max-width: 192px) 100vw, 192px" /></p>
+<p><span id="ember5194" class="ember-view">This is a good starting point to easily integrate realtime messaging features into your existing iOS mobile application.</span></p>
+<p>This demo shows you the following features:</p>
+<ul>
+<li>Tab based chat application</li>
+<li>Recent conversations&#8217; list</li>
+<li>Direct message (one to one message)</li>
+<li>Offline messages&#8217; history</li>
+<li>Received receipts (you can see if a message was sent and delivered)</li>
+<li>Presence Manager with online/offline and inactivity period indicator</li>
+<li>Integration of a custom user profile&#8217;s view</li>
+<li>Signup/Login with email and password</li>
+<li>Synchronized contacts (with offline search and selection)</li>
+<li>Integrates an example of a mobile live-chat support (an &#8220;help&#8221; button on the top left corner of every tab)</li>
+</ul>
+<p>Besides showing community chat features, this app also allows for self registration</p>
+<p><img class="alignnone wp-image-184 aligncenter" src="http://www.chat21.org/wp-content/uploads/2017/12/signup.png" alt="signup.png" width="174" height="360" srcset="http://www.chat21.org/wp-content/uploads/2017/12/signup.png 1281w, http://www.chat21.org/wp-content/uploads/2017/12/signup-145x300.png 145w, http://www.chat21.org/wp-content/uploads/2017/12/signup-768x1593.png 768w, http://www.chat21.org/wp-content/uploads/2017/12/signup-497x1030.png 497w, http://www.chat21.org/wp-content/uploads/2017/12/signup-723x1500.png 723w, http://www.chat21.org/wp-content/uploads/2017/12/signup-340x705.png 340w, http://www.chat21.org/wp-content/uploads/2017/12/signup-450x933.png 450w" sizes="(max-width: 174px) 100vw, 174px" /></p>
+<p>and finally the app has a built-in button to show how easy it is to embed a <em>live chat</em> for customer support directly into your iOS App:</p>
+<p><img class="alignnone wp-image-189" src="http://www.chat21.org/wp-content/uploads/2017/12/home.png" alt="home.png" width="147" height="262" srcset="http://www.chat21.org/wp-content/uploads/2017/12/home.png 750w, http://www.chat21.org/wp-content/uploads/2017/12/home-169x300.png 169w, http://www.chat21.org/wp-content/uploads/2017/12/home-579x1030.png 579w, http://www.chat21.org/wp-content/uploads/2017/12/home-396x705.png 396w, http://www.chat21.org/wp-content/uploads/2017/12/home-450x800.png 450w" sizes="(max-width: 147px) 100vw, 147px" /> <img class="alignnone wp-image-190" src="http://www.chat21.org/wp-content/uploads/2017/12/topic-selection.png" alt="topic-selection.png" width="147" height="261" srcset="http://www.chat21.org/wp-content/uploads/2017/12/topic-selection.png 750w, http://www.chat21.org/wp-content/uploads/2017/12/topic-selection-169x300.png 169w, http://www.chat21.org/wp-content/uploads/2017/12/topic-selection-579x1030.png 579w, http://www.chat21.org/wp-content/uploads/2017/12/topic-selection-396x705.png 396w, http://www.chat21.org/wp-content/uploads/2017/12/topic-selection-450x800.png 450w" sizes="(max-width: 147px) 100vw, 147px" /> <img class="alignnone wp-image-191" src="http://www.chat21.org/wp-content/uploads/2017/12/first-message.png" alt="first-message.png" width="147" height="261" srcset="http://www.chat21.org/wp-content/uploads/2017/12/first-message.png 750w, http://www.chat21.org/wp-content/uploads/2017/12/first-message-169x300.png 169w, http://www.chat21.org/wp-content/uploads/2017/12/first-message-579x1030.png 579w, http://www.chat21.org/wp-content/uploads/2017/12/first-message-396x705.png 396w, http://www.chat21.org/wp-content/uploads/2017/12/first-message-450x800.png 450w" sizes="(max-width: 147px) 100vw, 147px" /> <img class="alignnone wp-image-192" src="http://www.chat21.org/wp-content/uploads/2017/12/talk-to-agent.png" alt="talk-to-agent.png" width="146" height="260" srcset="http://www.chat21.org/wp-content/uploads/2017/12/talk-to-agent.png 750w, http://www.chat21.org/wp-content/uploads/2017/12/talk-to-agent-169x300.png 169w, http://www.chat21.org/wp-content/uploads/2017/12/talk-to-agent-579x1030.png 579w, http://www.chat21.org/wp-content/uploads/2017/12/talk-to-agent-396x705.png 396w, http://www.chat21.org/wp-content/uploads/2017/12/talk-to-agent-450x800.png 450w" sizes="(max-width: 146px) 100vw, 146px" /></p>
+<p>All help conversations will stay into your conversations&#8217; history, available also in offline mode. In this example you can see the conversation with Jennifer (support) in the chat history:</p>
+<p><img class="alignnone wp-image-193 aligncenter" src="http://www.chat21.org/wp-content/uploads/2017/12/conversation-history.png" alt="conversation-history.png" width="212" height="376" srcset="http://www.chat21.org/wp-content/uploads/2017/12/conversation-history.png 750w, http://www.chat21.org/wp-content/uploads/2017/12/conversation-history-169x300.png 169w, http://www.chat21.org/wp-content/uploads/2017/12/conversation-history-579x1030.png 579w, http://www.chat21.org/wp-content/uploads/2017/12/conversation-history-396x705.png 396w, http://www.chat21.org/wp-content/uploads/2017/12/conversation-history-450x800.png 450w" sizes="(max-width: 212px) 100vw, 212px" /></p>
+<p>If you want to provide your support&#8217;s agents with a more suitable <strong>desktop</strong> <strong>chat</strong> you can download, install and configure our open source web component available at <a href="https://github.com/chat21/chat21-ionic">https://github.com/chat21/chat21-ionic</a><img src="https://camo.githubusercontent.com/ad2682ac8b4ff026afeeec4266e0d76380c84e7b/687474703a2f2f7777772e646172696f646570617363616c69732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31302f6368617432312d696f6e69632d6465736b2d6e65772e706e67" alt="A screenshot of chat21-ionic demo" /></p>
+<p><span id="ember5194" class="ember-view">Try it by yourself by downloading the project directly from GitHub:</span></p>
+<p><a id="ember5197" class="feed-link ember-view" href="https://github.com/chat21/chat21-ios-demo" target="_blank" rel="noopener">https://github.com/chat21/chat21-ios-demo</a></p>
+<p>Follow the included instructions to setup the project<span id="ember5199" class="ember-view">.</span></p>
+<p><span id="ember5199" class="ember-view">Feel free to ask for support to <strong>info@frontiere21.it</strong>.</span></p>
+<p>Enjoy!</p>
+<p>&nbsp;</p>
+<p>L'articolo <a rel="nofollow" href="http://www.chat21.org/my-chat-sdk-for-ios/">Chat21 SDK demo for iOS</a> proviene da <a rel="nofollow" href="http://www.chat21.org/">Chat21</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
