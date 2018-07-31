@@ -1115,7 +1115,7 @@ z-index: 5;
 }
 
 .ajax_load_inner{
-background: url("https://chat21.github.io/wp-content/themes/enfold/images/layout/loading.gif") no-repeat scroll center center #fff;
+background: url("http://www.chat21.org/wp-content/themes/enfold/images/layout/loading.gif") no-repeat scroll center center #fff;
 opacity: 0.5;
 position: absolute;
 top:0;

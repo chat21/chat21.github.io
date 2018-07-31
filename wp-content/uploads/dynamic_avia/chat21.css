@@ -2,6 +2,21 @@
 .html_header_transparency #top .avia-builder-el-0 .container, .html_header_transparency #top .avia-builder-el-0 .slideshow_caption{padding-top:88px;}
 h1, h2, h3, h4, h5, h6, #top .title_container .main-title, tr.pricing-row td, #top .portfolio-title, .callout .content-area, .avia-big-box .avia-innerbox, .av-special-font, .av-current-sort-title, .html_elegant-blog #top .minor-meta, #av-burger-menu-ul li{font-family:'Lato', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
 body{font-family:'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+#logo #badges-tile {
+	width: 208px !important;
+	display: inline-block;
+}
+
+#tiledesk-link {
+	color: #f0806f !important;
+	transition: color 0.3s linear;
+  	 -webkit-transition: color 0.3s linear;
+ 	  -moz-transition: color 0.3s linear;
+}
+
+#tiledesk-link:hover {
+	color: #c65443 !important;
+}
 .container {width:95%;} .container .av-content-small.units {width:73%; }
 			
 			  .responsive .boxed#top , .responsive.html_boxed.html_header_sticky #header, 

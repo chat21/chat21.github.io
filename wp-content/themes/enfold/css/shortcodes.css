@@ -3955,7 +3955,7 @@ span.mejs-offscreen { display: none!important; }
 .av-video-slide.slide-1 .mejs-mediaelement{opacity: 0;}
 .av-video-slide .mejs-mediaelement{height:100%;}
 #top .av-video-slide .mejs-overlay-button{display: none;}
-#top .av-video-slide .avia-slide-wrap{ background: #000 url("https://chat21.github.io/wp-content/themes/enfold/images/layout/preload-dark-grey-big.gif") no-repeat center center; } 
+#top .av-video-slide .avia-slide-wrap{ background: #000 url("http://www.chat21.org/wp-content/themes/enfold/images/layout/preload-dark-grey-big.gif") no-repeat center center; } 
 #top .av-video-slide.av-video-service-youtube .avia-slide-wrap{ background: #000 }
 
 

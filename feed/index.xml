@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Chat21</title>
-	<atom:link href="https://chat21.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://chat21.github.io/</link>
+	<atom:link href="http://www.chat21.org/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.chat21.org/</link>
 	<description>Open Source Chat SDK built on Firebase for your Mobile and Web App</description>
-	<lastBuildDate>Mon, 30 Jul 2018 15:01:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Jul 2018 15:29:46 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
